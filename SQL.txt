@@ -4,3 +4,10 @@
 - accept arguments that can be a column or an expression
 - Case-conversion functions: LOWER, UPPER, INITCAP
 - Character manipulation functions:  LENGTH, INSTR, REPLACE
+
+***Multiple Row Functions (Aggregate Functions): takes multiple rows as input and returns one output 
+- MIN
+- MAX
+- AVG
+- SUM
+- COUNT
