@@ -1,0 +1,6 @@
+***Single-Row Functions:
+- manipulate data items, act on each returned row, return one result per row
+- can be used in SELECT, WHERE, ORDER BY
+- accept arguments that can be a column or an expression
+- Case-conversion functions: LOWER, UPPER, INITCAP
+- Character manipulation functions:  LENGTH, INSTR, REPLACE
