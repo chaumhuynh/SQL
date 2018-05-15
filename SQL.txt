@@ -11,3 +11,7 @@
 - AVG
 - SUM
 - COUNT
+
+***HAVING Clause: used in aggregate function , filter based on return of the function 
+- HAVING: used to filter group rows, if condition contains group function; applied after GROUP BY
+- WHERE: used to filter individual rows if condition does not contain group function; applied before GROUP BY
